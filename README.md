@@ -48,7 +48,32 @@ Daily Scrum;
 [![dc2](görüşme "dc2")](http://resimlink.com/DyoGjUlSL "dc2")
 
 [![görüşme](wp "görüşme")](http://resimlink.com/lJxFXdhpR_AO "görüşme")
+# Sprint 2
 
+ Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
+ - ##### Daily Scrum: 
+ Daily Scrum toplantılarının bayram dolayısıyla Whatsapp veya Discord üzerinden chat olarak yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+[![daily1](. "daily1")](https://r.resimlink.com/0gjmUlfQC.png "daily1")
+[![daily2](. "daily2")](https://r.resimlink.com/JYCvlXMHSO.png "daily2")
+[![daily3](. "daily3")](https://r.resimlink.com/zVfQpKMk8.png "daily3")
+- ##### Sprint Board Update: 
+[![trello](. "trello")](https://r.resimlink.com/20tQq.png "trello")
+
+
+- ##### Ürün Durumu: 
+İki farklı sahne oluşturuluyor. İki sahnenin de assetleri kararlaştırılıyor.
+[![unity1](. "unity1")](https://r.resimlink.com/8wT1DNRgsZI.png "unity1")
+[![Unity Uzay](. "Unity Uzay")](https://r.resimlink.com/hSfp8BT6al.png "Unity Uzay")
+[![unityuuzaysahne](. "unityuuzaysahne")](https://r.resimlink.com/_N1zcB-DfiV.png "unityuuzaysahne")
+
+
+
+- ##### Sprint Review:
+Alınan kararlar: Kullanıcı temel sayfaların arayüzleri ve, algoritmaları henüz kodlanmadı, assetlerde karar kılındı
+- ##### Sprint Review katılımcıları 
+ Umay Hilde Yayla, Didem Er
+- ##### Sprint Retrospective:
+Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 
 Sprint Review: Görüşmeleri sesli gerçekleştiriyoruz fakat bunların ekran fotoğrafını almadım. Önümüzdeki sprintlerde görebilirsiniz.  İlk sprintte takım arkadaşlarımın final haftasına denk geldiği için unity üzerinden çok yol katedemedik. Bu sprintte birbirimizi tanıdık, görev dağılımı yaptık, düzenli toplantılar gerçekleştirdik. Takımın her üyesi toplantılara aktif bir şekilde katılım gösterdi. 
 
