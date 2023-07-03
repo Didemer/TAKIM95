@@ -69,8 +69,8 @@ Daily Scrum;
 
 
 - ##### Sprint Review:
-Alınan kararlar: Kullanıcı temel sayfaların arayüzleri ve, algoritmaları henüz kodlanmadı, assetlerde karar kılındı
+Alınan kararlar: Kullanıcı temel sayfaların arayüzleri ve algoritmaları henüz kodlanmadı, assetlerde karar kılındı
 - ##### Sprint Review katılımcıları 
  Umay Hilde Yayla, Didem Er
 - ##### Sprint Retrospective:
-Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır
+Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
