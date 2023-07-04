@@ -34,7 +34,6 @@ Area 95 - Sprint 1
 - Sprint içinde tamamlanması tahmin edilen puan: 120 Puan (güncellenecektir)
 
 - Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi. İlerleyen sprintlerde ortalama 120-130 puan civarında backlog işleri bulunmakta. 
-### Sprint Notları
 
 Backlog düzeni; 
 - Backlog'umuz ilk yapılacak işlere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Yapılacak işler hem alacağı vakit hem de gerektirdiği efora göre değerlendirilip buna göre sprintlere ayrılmıştır. İlerleyen sprintlerde kişilere iş ataması devam edecektir. Backlog güncellenmeye devam edecektir.
@@ -49,12 +48,16 @@ Daily Scrum;
 [![dc2](görüşme "dc2")](http://resimlink.com/DyoGjUlSL "dc2")
 
 [![görüşme](wp "görüşme")](http://resimlink.com/lJxFXdhpR_AO "görüşme")
+### Sprint Notları
+Final haftası dolayısıyla unity ekranına herhangi bir ekleme yapılamadı. Sadece fikirde karar kılındı.
+
+
 # Sprint 2
 
  - ##### Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
  - ##### Puan tamamlama mantığı:
    Toplamda proje boyunca tamamlanması gereken 280 puanlık backlog bulunmaktadır. 2. Sprint için belirlenen işler 100 puan değerindedir. Product Owner’ın bu sprint için eklediği ve çıkardığı görevler puanlama sisteminde değişikliğe yol açmamıştır.
-   ### Sprint Notları
+   
  - ##### Daily Scrum: 
  Daily Scrum toplantılarının bayram dolayısıyla Whatsapp veya Discord üzerinden chat olarak yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
 [![daily1](. "daily1")](https://r.resimlink.com/0gjmUlfQC.png "daily1")
@@ -71,7 +74,6 @@ Daily Scrum;
 [![unityuuzaysahne](. "unityuuzaysahne")](https://r.resimlink.com/_N1zcB-DfiV.png "unityuuzaysahne")
 
 
-
 - ##### Sprint Review:
 #### Alınan kararlar:
 Kullanıcı temel sayfaların arayüzleri ve algoritmaları henüz kodlanmadı, assetlerde karar kılındı.
@@ -79,3 +81,5 @@ Kullanıcı temel sayfaların arayüzleri ve algoritmaları henüz kodlanmadı, 
  Umay Hilde Yayla, Didem Er
 - ##### Sprint Retrospective:
 Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
+### Sprint Notları
+Bu sprintte telif hakkı bulunmayan assetlerin bulunmasına ve bu assetler arasında seçim yapılmasına karar verildi. 
