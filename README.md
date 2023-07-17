@@ -93,4 +93,5 @@ Bu sprintte telif hakkı bulunmayan assetlerin bulunmasına ve bu assetler aras�
 [![car](. "car")](https://r.resimlink.com/Mp8NqSawixWz.jpeg "car")
 - **Sprint Review**: Bir projede zaman yönetiminin ne kadar önemli olduğunu anladık. 
 - **Sprint Retrospective:** Takım üyelerinin çoğu deneyimsiz olsa da tecrübe kazandığımız bir süreç oldu. 
-**Sprint Notları: ** Farklı alanlarda olan deneyimlerimizi bu projede hem birbirimizle paylaştık hem de bu alanlardaki tecrübelerimizi geliştirdik. 
+## Sprint Notları:
+Farklı alanlarda olan deneyimlerimizi bu projede hem birbirimizle paylaştık hem de bu alanlardaki tecrübelerimizi geliştirdik. . 
