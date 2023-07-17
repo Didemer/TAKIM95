@@ -83,3 +83,14 @@ Kullanıcı temel sayfaların arayüzleri ve algoritmaları henüz kodlanmadı, 
 Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vurgu yapılmıştır.
 ### Sprint Notları
 Bu sprintte telif hakkı bulunmayan assetlerin bulunmasına ve bu assetler arasında seçim yapılmasına karar verildi. 
+# Sprint 3
+- **Sprint içinde tamamlanması tahmin edilen puan**: İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 110'dur.
+- **Daily Scrum**: Daily Scrum toplantılarını üç kişi gerçekleştirdik. 
+[![wp1](. "wp1")](https://r.resimlink.com/4ed_EfA.jpeg "wp1") [![wp2](. "wp2")](https://r.resimlink.com/5XckC.jpeg "wp2") [![wp3](. "wp3")](https://r.resimlink.com/E9YMiWGu.jpeg "wp3")
+- **Sprint board update:** Sprint board screenshotları:
+[![trello](. "trello")](https://r.resimlink.com/s65hoMZd7.png "trello")
+- **Ürün Durumu: **Ekran görüntüsü:
+[![car](. "car")](https://r.resimlink.com/Mp8NqSawixWz.jpeg "car")
+- **Sprint Review**: Bir projede zaman yönetiminin ne kadar önemli olduğunu anladık. 
+- **Sprint Retrospective:** Takım üyelerinin çoğu deneyimsiz olsa da tecrübe kazandığımız bir süreç oldu. 
+**Sprint Notları: ** Farklı alanlarda olan deneyimlerimizi bu projede hem birbirimizle paylaştık hem de bu alanlardaki tecrübelerimizi geliştirdik. 
