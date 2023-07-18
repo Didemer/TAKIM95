@@ -33,7 +33,7 @@ Area 95 - Sprint 1
 
 - Sprint içinde tamamlanması tahmin edilen puan: 120 Puan (güncellenecektir)
 
-- Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 120 ile başlaması gerektiğine karar verildi. İlerleyen sprintlerde ortalama 120-130 puan civarında backlog işleri bulunmakta. 
+- Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 275 puanlık backlog bulunmaktadır. İlk sprint'in en azından 40 ile başlaması gerektiğine karar verildi. İlerleyen sprintlerde 235 puanlık backlog işleri bulunmakta. 
 
 Backlog düzeni; 
 - Backlog'umuz ilk yapılacak işlere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Yapılacak işler hem alacağı vakit hem de gerektirdiği efora göre değerlendirilip buna göre sprintlere ayrılmıştır. İlerleyen sprintlerde kişilere iş ataması devam edecektir. Backlog güncellenmeye devam edecektir.
@@ -56,7 +56,7 @@ Final haftası dolayısıyla unity ekranına herhangi bir ekleme yapılamadı. S
 
  - ##### Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
  - ##### Puan tamamlama mantığı:
-   Toplamda proje boyunca tamamlanması gereken 280 puanlık backlog bulunmaktadır. 2. Sprint için belirlenen işler 100 puan değerindedir. Product Owner’ın bu sprint için eklediği ve çıkardığı görevler puanlama sisteminde değişikliğe yol açmamıştır.
+   Toplamda proje boyunca tamamlanması gereken 275 puanlık backlog bulunmaktadır. 2. Sprint için belirlenen işler 95 puan değerindedir. Product Owner’ın bu sprint için eklediği ve çıkardığı görevler puanlama sisteminde değişikliğe yol açmamıştır.
    
  - ##### Daily Scrum: 
  Daily Scrum toplantılarının bayram dolayısıyla Whatsapp veya Discord üzerinden chat olarak yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
@@ -85,6 +85,8 @@ Takım üyelerinin gelecek sprintlerde daha fazla aktif olması gerektiğine vur
 Bu sprintte telif hakkı bulunmayan assetlerin bulunmasına ve bu assetler arasında seçim yapılmasına karar verildi. 
 # Sprint 3
 - **Sprint içinde tamamlanması tahmin edilen puan**: İkinci sprintten kalan 120 puanın da eklenmesiyle bu sprint için toplam puan: 110'dur.
+- #####  Puan Tamamlama Mantığı:  
+Toplamda proje boyunca tamamlanması gereken 275 puanlık backlog bulunmaktadır. Son sprintin puanı önceki sprintlerden daha fazladır çünkü tamamlanılması gereken daha fazla görev vardır.
 - **Daily Scrum**: Daily Scrum toplantılarını üç kişi gerçekleştirdik. 
 [![wp1](. "wp1")](https://r.resimlink.com/4ed_EfA.jpeg "wp1") [![wp2](. "wp2")](https://r.resimlink.com/5XckC.jpeg "wp2") [![wp3](. "wp3")](https://r.resimlink.com/E9YMiWGu.jpeg "wp3")
 - **Sprint board update:** Sprint board screenshotları:
